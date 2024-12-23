@@ -38,7 +38,7 @@ The interactive map is saved as `m.html` in the project directory. You can open 
 - Used a continuous cartogram to distort county shapes based on the number of mobility hubs.
 - Applied a gradient color scheme to highlight the density of hubs.
 
-![Cartogram](Rplot.png) 
+![Cartogram](Rplot01.png) 
 
 ## Results and Interpretations
 
